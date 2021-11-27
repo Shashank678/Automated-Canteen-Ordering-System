@@ -1,2 +1,2 @@
 # Automated-Canteen-Ordering-System
-Mini Project Repositories
+Industrial Training Repositories
